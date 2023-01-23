@@ -3,5 +3,10 @@ let cheeses =[
     "Mozzarella",
     "Roquefort",
     "Compte",
-    "Fontina"
+    "Fontina",
+    “Wensleydale”,
+    "Ilha",
+    "Serra",
+    "Pico",
+    "Alentejano",
 ];
