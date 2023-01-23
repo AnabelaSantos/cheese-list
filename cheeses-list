@@ -1,0 +1,7 @@
+let cheeses =[
+    "Cheddar",
+    "Mozzarella",
+    "Roquefort",
+    "Compte",
+    "Fontina"
+];
